@@ -103,7 +103,8 @@ export function handleLogin(event) {
         "jee2025": "jee2025",
         "jee02": "124",
         "jee03": "125",
-        "jee04": "126"
+        "jee04": "126",
+        "1234": "1234"
     };
 
     // Check if the entered username exists in the object and if the password matches
